@@ -11,12 +11,10 @@
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-rawat)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](your-portfolio-url)
-
-📞 **6261330774**
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vibhu4905@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-rawat-1a3198322)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaibhav-Rawat-cipher)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://drive.google.com/file/d/1BDHnW0T7W0UNZJcqilXvVYaVpk0gveZn/view?usp=drivesdk)
 
 </div>
 
@@ -315,10 +313,6 @@ const myPhilosophy = {
 ---
 
 <div align="center">
-
-### 💡 *"Building the decentralized future, one smart contract at a time"*
-
-⭐️ From [Vaibhav Rawat](https://github.com/Vaibhav-Rawat-cipher)
 
 </div>
 
