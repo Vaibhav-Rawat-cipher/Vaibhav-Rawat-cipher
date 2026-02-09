@@ -59,7 +59,7 @@ const aboutMe = {
 ### 🚀 Now
 
 - Building **Web3 systems** across smart contracts, data pipelines & gen-AI
-- Developing **on-chain bot detection** and market manipulation monitoring
+- Developing a **privacy domain layer** better than anything world has ever seen
 - Working on **DeFi protocols** with privacy-preserving technologies
 - Contributing to the **Web3 ecosystem**
 - Exploring **zero-knowledge proofs** and advanced cryptographic primitives
@@ -69,9 +69,9 @@ const aboutMe = {
 
 ### 🎯 Goals 2026
 
-- [ ] Launch a production DeFi protocol
+- [ ] Go to tokyo(EthGlobal Tokyo)
 - [ ] Contribute to major Web3 infrastructure (Arc)
-- [ ] Write technical articles on blockchain
+- [ ] Launch a production DeFi protocol
 - [ ] Win more major hackathons
 - [ ] Build a Web3 developer community
 
