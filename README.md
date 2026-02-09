@@ -318,8 +318,6 @@ const myPhilosophy = {
 
 ### 💡 *"Building the decentralized future, one smart contract at a time"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
 ⭐️ From [Vaibhav Rawat](https://github.com/Vaibhav-Rawat-cipher)
 
 </div>
