@@ -293,12 +293,7 @@ const myPhilosophy = {
 <br><b>GitHub</b>
 </a>
 </td>
-<td align="center">
-<a href="tel:6261330774">
-<img src="https://img.icons8.com/fluency/48/000000/phone.png" width="40"/>
-<br><b>Phone</b>
-</a>
-</td>
+
 <td align="center">
 <a href="https://drive.google.com/file/d/1BDHnW0T7W0UNZJcqilXvVYaVpk0gveZn/view?usp=drivesdk">
 <img src="https://img.icons8.com/fluency/48/000000/domain.png" width="40"/>
