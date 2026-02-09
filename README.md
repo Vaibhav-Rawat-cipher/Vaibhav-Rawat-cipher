@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Add your header image here - Japanese artwork or custom banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Your%20Name&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vaibhav%20Rawat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3CBBF7&center=true&vCenter=true&random=false&width=835&lines=Blockchain+Developer+%F0%9F%94%97;Web3+Engineer+%F0%9F%8C%90;Full+Stack+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3CBBF7&center=true&vCenter=true&random=false&width=835&lines=Blockchain+Developer+%F0%9F%94%97;Web3+Engineer+%F0%9F%8C%90;DeFi+Protocol+Builder+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,12 +11,12 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](your-leetcode)
-[![CodeForces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](your-codeforces)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your-instagram)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](your-portfolio)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-rawat)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](your-portfolio-url)
+
+📞 **6261330774**
 
 </div>
 
@@ -26,26 +26,27 @@
 
 ```typescript
 const aboutMe = {
-  name: "Your Name",
+  name: "Vaibhav Rawat",
   location: "Jaipur, Rajasthan, India 🇮🇳",
   education: {
     institution: "LNMIIT Jaipur",
-    degree: "B.Tech in Electronics and Communication Engineering",
-    year: "2022-2026"
+    degree: "B.Tech in Computer Science Engineering",
+    year: "2024-2028 (2nd Year)",
+    currentYear: 2
   },
   currentFocus: [
     "Blockchain Development",
-    "Web3 Technologies", 
+    "DeFi Protocols", 
     "Smart Contract Security",
-    "DeFi Protocols",
-    "Full Stack Development"
+    "Privacy-Preserving Technologies",
+    "Full Stack Web3 Development"
   ],
   achievements: [
-    "🏆 1st Place - ETHOnline 2025 (PythNetworks)",
-    "🎓 Uniswap Hook Incubation 6 Alumni",
+    "🏆 1st Place - ETHOnline 2025 (Pyth Network Track)",
+    "🥈 Winner - LNMHacks 8.0 2026 (Viral Consumer Track)",
     "💡 Active contributor to Web3 ecosystem"
   ],
-  funFact: "I debug smart contracts faster than I debug my life decisions 😅"
+  funFact: "I like to learn DeFi protocols more than chicken 😅"
 };
 ```
 
@@ -59,11 +60,11 @@ const aboutMe = {
 
 ### 🚀 Now
 
-- Building **Web3 systems** across smart contracts, data pipelines, and frontends
-- Developing **diagnostic analytics** platforms for skill tracking
-- Working on **DeFi protocols** with advanced cryptographic implementations
-- Contributing to **open-source Web3 projects**
-- Exploring **zero-knowledge proofs** and privacy-preserving tech
+- Building **Web3 systems** across smart contracts, data pipelines & gen-AI
+- Developing **on-chain bot detection** and market manipulation monitoring
+- Working on **DeFi protocols** with privacy-preserving technologies
+- Contributing to the **Web3 ecosystem**
+- Exploring **zero-knowledge proofs** and advanced cryptographic primitives
 
 </td>
 <td width="50%">
@@ -71,9 +72,9 @@ const aboutMe = {
 ### 🎯 Goals 2026
 
 - [ ] Launch a production DeFi protocol
-- [ ] Contribute to major Web3 infrastructure
+- [ ] Contribute to major Web3 infrastructure (Arc)
 - [ ] Write technical articles on blockchain
-- [ ] Win major hackathons
+- [ ] Win more major hackathons
 - [ ] Build a Web3 developer community
 
 </td>
@@ -85,36 +86,117 @@ const aboutMe = {
 ## 💼 Experience
 
 <details open>
-<summary><b>🏢 Professional Journey</b></summary>
+<summary><b>🏢 Research & Development Journey</b></summary>
 <br>
 
-| Role | Company | Duration | Tech Stack |
-|------|---------|----------|------------|
-| **Backend - Junior Web3 Engineer** | Startup XYZ | Jan 2025 - Present | Solidity, Rust, Node.js, PostgreSQL |
-| **Blockchain Developer Intern** | Open Labs | Apr 2024 - Dec 2024 | Ethereum, Foundry, React, TypeScript |
-| **Software Engineer Intern** | Tech Corp | Jun 2024 - Aug 2024 | Python, FastAPI, MongoDB, Docker |
+| Role | Organization | Duration | Focus Area |
+|------|--------------|----------|------------|
+| **Undergraduate Research Assistant** | LNMIIT Jaipur | June 2024 - July 2024 | DeFi Protocols & Impermanent Loss Mitigation |
+
+**Research Highlights:**
+- 📚 Researched latest protocols to mitigate impermanent losses in modern DEX protocols
+- 🔍 Deep dive into Uniswap V1-V4 protocol mechanisms
+- 💡 Studied Yield Basis protocol for impermanent loss mitigation
 
 </details>
 
 ---
 
-## 🏆 Highlights & Achievements
+## 🏆 Achievements & Hackathon Wins
 
 <div align="center">
 
 | 🎉 Achievement | 📅 Date | 🏅 Recognition |
 |----------------|---------|----------------|
-| **ETHGlobal New Delhi 2025** | Feb 2025 | Finalist + Partner Prizes |
-| **ETHOnline 2025** | Dec 2024 | 🥇 1st Place (PythNetworks) |
-| **ETHIndia Bangalore 2024** | Nov 2024 | Best Game (Godot+Gelato) |
-| **Uniswap Hook Incubation** | 2024 | Alumni - Cohort 6 |
-| **ApeCoholic Builder Prize** | 2024 | Best use of Aave, The Graph |
+| **ETHOnline 2025** | October 2025 | 🥇 **1st Place** - Pyth Network Track (Most Innovative Use of Pyth Pull Oracle) |
+| **LNMHacks 8.0** | January 2026 | 🥈 **Winner** - Viral Consumer Track |
 
 </div>
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 [VigilBot](https://github.com/YOUR_USERNAME/vigilbot)
+**On-Chain Bot Detection & Market Manipulation Monitoring**
+
+**🏆 ETHOnline 2025 Winner - Pyth Network Track (1st Place)**
+
+Revolutionary protocol that classifies traders into human, good bots, and malicious bots:
+- 🔍 Behavioral scoring system for trader classification
+- ⚡ Pyth Network pull oracles for sub-second reaction time measurement
+- 🔐 Immutable evidence storage on Ethereum Sepolia
+- 📊 Subscription-based analytics dashboard with real-time monitoring
+- 🎯 Role-based access control
+
+**Tech Stack:** Solidity, TypeScript, Pyth Oracle, React, Supabase, EVM
+
+</td>
+<td width="50%">
+
+### 🔐 [VeilPay](https://github.com/YOUR_USERNAME/veilpay)
+**Self-Custodial Privacy Domain Layer**
+
+**🏆 LNMHacks 8.0 Winner - Viral Consumer Track**
+
+Privacy-first payment protocol using stealth addresses:
+- 🥷 Stealth address implementation for maximum on-chain privacy
+- 🌐 Domain-based payments with one-time EVM addresses
+- 🚀 Optimized for parallel execution with stateless flows
+- 🔗 Eliminates on-chain wallet linkability
+- ⚙️ Minimal shared state architecture
+
+**Tech Stack:** Solidity, TypeScript, Supabase, EVM, x402
+
+**Status:** January 2026 - Present
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💰 [LendFlow](https://github.com/YOUR_USERNAME/lendflow)
+**Next-Gen Decentralized Lending Protocol**
+
+Dynamic orderbook-based lending that protects small borrowers:
+- 📈 Dual matching engine classifying borrowers by size
+- 🎯 Guaranteed lowest APY for small borrowers
+- 🐋 Premium rates for whale borrowers
+- 📊 On-chain weighted average APY calculation
+- 🔄 MakerDAO DSR & Aave v3 integration
+- 📉 EWMA smoothing for stable reference rates
+
+**Tech Stack:** Solidity, Next.js, EVM, MakerDAO, Aave
+
+**Status:** September 2025 - Present
+
+</td>
+<td width="50%">
+
+### 🔬 Research Project
+**Impermanent Loss Mitigation**
+
+Academic research on DeFi protocol optimization:
+- 📚 Comprehensive analysis of Uniswap V1-V4
+- 💡 Yield Basis protocol research
+- 🛡️ Strategies for IL mitigation in AMMs
+- 📊 Comparative protocol analysis
+
+**Duration:** June-July 2024
+
+**Institution:** LNMIIT Jaipur
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
 
 <details open>
 <summary><b>⚡ Languages & Frameworks</b></summary>
@@ -134,103 +216,32 @@ const aboutMe = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend Development
+### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### DevOps & Tools
+### DeFi Protocols & Integrations
+![Uniswap](https://img.shields.io/badge/Uniswap-FF007A?style=for-the-badge&logo=uniswap&logoColor=white)
+![Aave](https://img.shields.io/badge/Aave-1C202F?style=for-the-badge&logo=aave&logoColor=white)
+![MakerDAO](https://img.shields.io/badge/MakerDAO-1AAB9B?style=for-the-badge&logo=makerdao&logoColor=white)
+![Pyth Network](https://img.shields.io/badge/Pyth-6C48C5?style=for-the-badge&logo=chainlink&logoColor=white)
+
+### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### Libraries & Frameworks
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 </details>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔗 [DeFi Protocol Suite](project-link)
-**Blockchain • Solidity • Foundry**
-
-A comprehensive DeFi protocol with advanced features including:
-- Multi-chain smart contracts (Ethereum, Polygon)
-- Automated yield optimization
-- Cross-chain bridge integration
-- Gas-optimized implementations
-
-**Tech:** Solidity, Foundry, OpenZeppelin, Chainlink
-
-</td>
-<td width="50%">
-
-### 🎮 [Web3 Gaming Platform](project-link)
-**GameFi • NFT • Smart Contracts**
-
-Decentralized gaming platform featuring:
-- Play-to-earn mechanics
-- NFT-based asset ownership
-- On-chain game logic
-- Tournament system with prize pools
-
-**Tech:** Solidity, React, Unity, The Graph
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📊 [Analytics Dashboard](project-link)
-**Full Stack • Data Visualization**
-
-Real-time analytics platform with:
-- Custom data pipelines
-- Interactive visualizations
-- Multi-source data aggregation
-- AI-powered insights
-
-**Tech:** TypeScript, React, Node.js, PostgreSQL
-
-</td>
-<td width="50%">
-
-### 🔐 [ZK Privacy Protocol](project-link)
-**Zero-Knowledge • Cryptography**
-
-Privacy-preserving protocol implementing:
-- ZK-SNARK proofs
-- Private transactions
-- Identity verification
-- Compliance features
-
-**Tech:** Rust, Circom, Solidity, zkSync
-
-</td>
-</tr>
-</table>
-
-[➡️ View All Projects](https://github.com/YOUR_USERNAME?tab=repositories)
 
 ---
 
@@ -246,7 +257,6 @@ Privacy-preserving protocol implementing:
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C3D1D9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&layout=compact" width="49%" />
 
 </div>
 
@@ -272,26 +282,27 @@ Privacy-preserving protocol implementing:
 
 ---
 
-## 📝 Latest Blog Posts
+## 💡 My Approach to Web3
 
-<!-- BLOG-POST-LIST:START -->
-- [Building Secure Smart Contracts: Best Practices](blog-link)
-- [Understanding DeFi Protocols: A Deep Dive](blog-link)
-- [Zero-Knowledge Proofs Explained](blog-link)
-- [Web3 Development: From Beginner to Advanced](blog-link)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [Read more on my blog](your-blog-url)
+```javascript
+const myPhilosophy = {
+  codeQuality: "Clean, audited, and gas-optimized",
+  security: "Security-first mindset in every contract",
+  innovation: "Pushing boundaries of DeFi and privacy tech",
+  learning: "Continuous exploration of cutting-edge protocols",
+  collaboration: "Building with and for the community"
+};
+```
 
 ---
 
-## 📄 Resume
+## 📚 Currently Learning
 
-<div align="center">
-
-### 📎 [Download My Resume](https://drive.google.com/file/d/YOUR_RESUME_LINK/view?usp=sharing)
-
-</div>
+- 🦀 **Rust** - Systems programming for high-performance blockchain applications
+- 🔐 **Zero-Knowledge Proofs** - zkSNARKs and zkSTARKs
+- 🌐 **Layer 2 Solutions** - Optimistic and ZK rollups
+- 🔗 **Cross-Chain Protocols** - Bridge security and interoperability
+- 🤖 **MEV Protection** - Flashbots and MEV-resistant design
 
 ---
 
@@ -304,33 +315,33 @@ Privacy-preserving protocol implementing:
 <table>
 <tr>
 <td align="center">
-<a href="mailto:your.email@example.com">
+<a href="mailto:your.email@gmail.com">
 <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="40"/>
-<br><b>Email</b>
+<br><b>Gmail</b>
 </a>
 </td>
 <td align="center">
-<a href="your-linkedin-url">
+<a href="https://www.linkedin.com/in/vaibhav-rawat">
 <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="40"/>
 <br><b>LinkedIn</b>
 </a>
 </td>
 <td align="center">
-<a href="your-twitter-url">
-<img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="40"/>
-<br><b>Twitter</b>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.icons8.com/fluency/48/000000/github.png" width="40"/>
+<br><b>GitHub</b>
 </a>
 </td>
 <td align="center">
-<a href="your-website-url">
+<a href="tel:6261330774">
+<img src="https://img.icons8.com/fluency/48/000000/phone.png" width="40"/>
+<br><b>Phone</b>
+</a>
+</td>
+<td align="center">
+<a href="your-portfolio-url">
 <img src="https://img.icons8.com/fluency/48/000000/domain.png" width="40"/>
-<br><b>Website</b>
-</a>
-</td>
-<td align="center">
-<a href="your-blog-url">
-<img src="https://img.icons8.com/fluency/48/000000/blog.png" width="40"/>
-<br><b>Blog</b>
+<br><b>Portfolio</b>
 </a>
 </td>
 </tr>
@@ -340,7 +351,7 @@ Privacy-preserving protocol implementing:
 
 ---
 
-## 💭 Quote of the Day
+## 💭 Developer Quote
 
 <div align="center">
 
@@ -350,23 +361,13 @@ Privacy-preserving protocol implementing:
 
 ---
 
-## 🎵 Spotify Playing
-
 <div align="center">
 
-[![Spotify](https://novatorem-kyzbk7wxl-puf17640.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 *"Building the decentralized future, one block at a time"*
+### 💡 *"Building the decentralized future, one smart contract at a time"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐️ From [Vaibhav Rawat](https://github.com/YOUR_USERNAME)
 
 </div>
 
