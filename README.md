@@ -278,19 +278,19 @@ const myPhilosophy = {
 <table>
 <tr>
 <td align="center">
-<a href="mailto:your.email@gmail.com">
+<a href="mailto:vibhu4905@gmail.com">
 <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="40"/>
 <br><b>Gmail</b>
 </a>
 </td>
 <td align="center">
-<a href="https://www.linkedin.com/in/vaibhav-rawat">
+<a href="https://www.linkedin.com/in/vaibhav-rawat](https://www.linkedin.com/in/vaibhav-rawat-1a3198322/">
 <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="40"/>
 <br><b>LinkedIn</b>
 </a>
 </td>
 <td align="center">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Vaibhav-Rawat-cipher">
 <img src="https://img.icons8.com/fluency/48/000000/github.png" width="40"/>
 <br><b>GitHub</b>
 </a>
@@ -302,9 +302,9 @@ const myPhilosophy = {
 </a>
 </td>
 <td align="center">
-<a href="your-portfolio-url">
+<a href="https://drive.google.com/file/d/1BDHnW0T7W0UNZJcqilXvVYaVpk0gveZn/view?usp=drivesdk">
 <img src="https://img.icons8.com/fluency/48/000000/domain.png" width="40"/>
-<br><b>Portfolio</b>
+<br><b>Resume</b>
 </a>
 </td>
 </tr>
@@ -320,7 +320,7 @@ const myPhilosophy = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-⭐️ From [Vaibhav Rawat](https://github.com/YOUR_USERNAME)
+⭐️ From [Vaibhav Rawat](https://github.com/Vaibhav-Rawat-cipher)
 
 </div>
 
