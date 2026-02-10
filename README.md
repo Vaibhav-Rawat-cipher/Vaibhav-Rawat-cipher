@@ -119,7 +119,7 @@ const aboutMe = {
 <tr>
 <td width="50%">
 
-### 🤖 [VigilBot](https://github.com/YOUR_USERNAME/vigilbot)
+### 🤖 [VigilBot](https://github.com/Vaibhav-Rawat-cipher/VigilBot)
 **On-Chain Bot Detection & Market Manipulation Monitoring**
 
 **🏆 ETHOnline 2025 Winner - Pyth Network Track (1st Place)**
@@ -136,7 +136,7 @@ Revolutionary protocol that classifies traders into human, good bots, and malici
 </td>
 <td width="50%">
 
-### 🔐 [VeilPay](https://github.com/YOUR_USERNAME/veilpay)
+### 🔐 [VeilPay](https://github.com/Vaibhav-Rawat-cipher/VeilPay)
 **Self-Custodial Privacy Domain Layer**
 
 **🏆 LNMHacks 8.0 Winner - Viral Consumer Track**
@@ -157,7 +157,7 @@ Privacy-first payment protocol using stealth addresses:
 <tr>
 <td width="50%">
 
-### 💰 [LendFlow](https://github.com/YOUR_USERNAME/lendflow)
+### 💰 [LendFlow](https://github.com/Vaibhav-Rawat-cipher/LendFlow)
 **Next-Gen Decentralized Lending Protocol**
 
 Dynamic orderbook-based lending that protects small borrowers:
