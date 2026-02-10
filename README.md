@@ -175,7 +175,7 @@ Dynamic orderbook-based lending that protects small borrowers:
 </td>
 <td width="50%">
 
-### 🔬 Research Project
+### 🔬 [Research Project](https://www.notion.so/SOK-on-DEX-and-AMMs-22c9399efd8180999a27dc49d03751b0?pvs=12)
 **Impermanent Loss Mitigation**
 
 Academic research on DeFi protocol optimization:
